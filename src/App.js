@@ -1,10 +1,11 @@
 import Navbar from "./components/Navbar";
+import Home from './components/Home';
 
 function App() {
   return (
-    <div >
+    <div  >
       <Navbar />
-      <h1 className="text-xl">tqm piciosa</h1>
+      <Home />
     </div>
   );
 }
