@@ -16,7 +16,7 @@ const Contact = () => {
         <p className='text-1xl font-normal text-white my-4'>Your message</p>
         <textarea className='bg-[#FFFF] p-5' name="message" rows="5" placeholder='Message'></textarea>
 
-        <button className='bg-[#FFFF] text-black hover:bg-gray-200 px-10 py-4 my-10 mx-auto flex items-end'>Send e-mail</button>
+        <button className='bg-[#FFFF] text-black hover:bg-gray-600 px-10 py-4 my-10 mx-auto flex items-end'>Send e-mail</button>
       </form >
     </div >
   )
