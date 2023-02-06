@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 @import url('https://fonts.cdnfonts.com/css/graphik');
+@import url('https://fonts.cdnfonts.com/css/gilroy-bold');
 
 body {
   margin: 0;
@@ -41,4 +42,13 @@ code {
   background-image: linear-gradient(to right,
       rgba(112, 157, 255, 0.8),
       hsla(242, 74%, 61%, 0.8)) !important;
+}
+
+
+.hello_text {
+  font-family: 'Gilroy-Bold', sans-serif;
+  color: white;
+  font-weight: 600;
+  font-size: 170px;
+  line-height: 130px;
 }
