@@ -8,7 +8,7 @@ const Home = () => {
       {/* Container */}
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full" >
         <h1 className='text-4xl sm:text-5xl font-medium text-[#FFFFFF] mx-auto my-5'>Diego Soto</h1>
-        <h2 className='text-4xl sm:text-7xl font-semibold text-[#FFFFFF] mx-auto'>Front-end Developer</h2>
+        <h2 className='text-3xl md:text-6xl font-semibold text-[#FFFFFF] mx-auto'>Front-end Developer</h2>
         <p className='text-[#FFFFFF] py-4 max-w-[700px] mx-auto text-justify		'>
           CS Student, self-learner and tech lover.
         </p>
