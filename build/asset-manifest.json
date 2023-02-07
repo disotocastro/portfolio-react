@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f91c7da4.css",
+    "main.js": "/static/js/main.eb07ea87.js",
+    "static/media/bootstrap.png": "/static/media/bootstrap.7c69b905ff680bf51219.png",
+    "static/media/platziconf.jpg": "/static/media/platziconf.0de17feb4a4d0cae84c7.jpg",
+    "static/media/spotify.jpg": "/static/media/spotify.fec01edf39c010eca3c8.jpg",
+    "static/media/manage.jpg": "/static/media/manage.dfcfbd0c75f8b4c73609.jpg",
+    "static/media/todoapp.jpg": "/static/media/todoapp.ec0444cf0b2b76de73f4.jpg",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/python.png": "/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/logo.png": "/static/media/logo.d871ec648ea0c324b46a.png",
+    "static/media/mysql.png": "/static/media/mysql.7d8d571e5629923eaf74.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "static/media/tailwind.svg": "/static/media/tailwind.d84a6f369e7170891c4a19587ccf78e1.svg",
+    "main.f91c7da4.css.map": "/static/css/main.f91c7da4.css.map",
+    "main.eb07ea87.js.map": "/static/js/main.eb07ea87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f91c7da4.css",
+    "static/js/main.eb07ea87.js"
+  ]
+}
