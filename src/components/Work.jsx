@@ -12,8 +12,7 @@ const Work = () => {
     <div name='work' className='w-full md:h-screen text-white bg-[#111111]'>
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
-
-          <p className='text-4xl font-bold text-center'>
+          <p className='mb-10 flex justify-center items-center text-5xl font-normal text-white'>
             My Work
           </p>
         </div>
@@ -27,7 +26,7 @@ const Work = () => {
               key={index}
               style={{ backgroundImage: `url(${item.image})` }}
               className="shadow-lg shadow-[#040c16] group container rounded-md 
-              flex justify-center text-center items-center mx-auto content-div "
+              flex justify-center text-center items-center mx-auto content-div bg-[#111111] "
             >
               {/* Hover effect for images */}
               <div className="opacity-0 group-hover:opacity-100 ">
