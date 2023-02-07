@@ -7,7 +7,7 @@ import ReactImg from '../assets/react.png';
 import Node from '../assets/node.png';
 import Python from '../assets/python.png';
 import MySQL from '../assets/mysql.png';
-import Tailwind from '../assets/tailwind.png';
+import Tailwind from '../assets/tailwind.svg';
 import Bootstrap from '../assets/bootstrap.png';
 
 const Skills = () => {

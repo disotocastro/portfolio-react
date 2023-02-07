@@ -7,24 +7,17 @@ const About = () => {
       <div className='flex flex-col justify-center items-center w-full h-full'>
         <div className='sm:text-right pb-8 pl-4'>
           <p className='text-7xl font-bold hello_text'>
-            Hello
+            Hi :)
           </p>
-          {/* <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
-
-          </div> */}
-
         </div>
 
         <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4 text-white'>
-          <div className='sm:text-right text-4xl font-bold'>
-            <p>Hi. I'm Diego, nice to meet you. Please take a look around.</p>
+          <div className='sm:text-right text-3xl font-bold'>
+            <p>I ‎ ♥ ‎  UI/UX, minimalism</p>
+            <p>dark mode and material desing.</p>
           </div>
           <div>
-            <p>I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?</p>
+            <p> I'm an entry level Web Developer with knowledge in a variety of programming languages, good programming practices, control version and design patterns.</p>
           </div>
         </div>
       </div>
